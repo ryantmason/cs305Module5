@@ -1,6 +1,6 @@
 # cs305Module5
 Assignment:
-Write freely about the object.
+Write freely about a monument.
 Be descriptive about your intentions and choices.
 
 You might want to answer questions like:
