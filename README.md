@@ -13,3 +13,5 @@ In case of derivatives, what is different from the previous versions? etc.
 I am using the MIT license for the above project.
 
 JT was here.
+
+## Subheading from Ryan Demboski
